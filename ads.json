@@ -1,18 +1,14 @@
-{
-  "version": 1,
-  "rotate_seconds": 8,
-  "ads": [
-    {
-      "id": "sample-2026",
-      "image": "images/sample-banner.gif",
-      "link": "https://cruise-mu.com/",
-      "alt": "Advertise on CruisE",
-      "alt_fr": "Annoncez sur CruisE",
-      "aspect": 3.2,
-      "start": "2026-10-01",
-      "end": "2027-12-31",
-      "markets": ["CA"],
-      "weight": 1
-    }
-  ]
-}
+   {
+     "version": 1,
+     "rotate_seconds": 8,
+     "ads": [
+       {
+         "id": "cruise-launch-2026",
+         "image": "images/cruise-sample-ad.gif",
+         "link": "https://cruise-mu.com/",
+         "alt": "CruisE: winter tires, fuel, maintenance and lease kilometres in one app",
+         "alt_fr": "CruisE : pneus d'hiver, carburant, entretien et kilomètres de location dans une seule app",
+         "markets": ["CA"]
+       }
+     ]
+   }
